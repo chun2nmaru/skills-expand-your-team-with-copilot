@@ -166,13 +166,13 @@ initial_activities = {
     },
     "Maníacos del manga": {
         "description": "¡Sumérgete en el universo del manga japonés! Explora épicas aventuras de samuráis, mundos de fantasía, robots gigantes y héroes con poderes extraordinarios. Cada semana analizamos una obra diferente y debatimos sobre arte, narrativa y cultura japonesa.",
-        "schedule": "Tuesdays, 7:00 PM - 8:00 PM",
+        "schedule": "Tuesdays, 5:00 PM - 6:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "20:00"
+            "start_time": "17:00",
+            "end_time": "18:00"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     }
 }
