@@ -165,7 +165,7 @@ initial_activities = {
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
     },
     "Maníacos del manga": {
-        "description": "Descubre las fantásticas historias de los personajes más interesantes del manga japonés (novelas gráficas).",
+        "description": "¡Sumérgete en el universo del manga japonés! Explora épicas aventuras de samuráis, mundos de fantasía, robots gigantes y héroes con poderes extraordinarios. Cada semana analizamos una obra diferente y debatimos sobre arte, narrativa y cultura japonesa.",
         "schedule": "Tuesdays, 7:00 PM - 8:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
